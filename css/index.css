@@ -38,7 +38,12 @@ grid-area: footer;
 grid-area: article;
 }
 
+footer{
+	text-align: center;
+	font-size: 2vh;
+	height: 2vh;
 
+}
 
 
 
@@ -51,7 +56,7 @@ font-size: 2.3vmin;
 
 header a{
 	color: orangered;
-	border: solid 0.4vmax orangered;
+	/*border: solid 0.4vmax orangered;*/
 	display: block;
 	text-align: center;
 	width: 20vmin;
@@ -62,13 +67,13 @@ header a{
 
 header a:link{
 	text-decoration: none;
-	color: #fff;
+	color: #000;
 }
 
 header a:hover{
 	text-decoration: none;
-	color: #fff;
-	border: solid 0.4vh #fff; 
+	color: #000;
+	border: solid 0.4vh #000; 
 }
 
 
@@ -199,9 +204,12 @@ nav ul li a:link{
 
 nav ul li a:hover{
 	height: 20vh;
-	text-decoration: underline;
+	text-decoration: none;
 	color: #fff;
 }
+
+ 
+
 
 /*[class="nav-link"]{
 	
