@@ -1,0 +1,32 @@
+.menu{
+	float: right;
+	margin-top: 91px;
+	font-size: 28px;
+	margin-right: 63px;
+}
+
+.menu ul li{
+	list-style: none;
+	text-align: right;
+
+}
+
+.menu ul li a{
+	color: #ffe7d7;
+	font-weight: bold;
+	font-family: helvetica;
+	text-decoration: none;
+	line-height: 1.5;
+}
+
+.menu ul li a:hover{
+	border-bottom: 2px solid;
+	
+}
+.glock img{
+	display: inline-block;
+	opacity: 1;
+	max-width: 1000%;
+  height: auto;
+
+}

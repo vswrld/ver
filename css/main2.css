@@ -1,0 +1,98 @@
+@import url(nav.css);
+
+
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #0d0500;
+
+}
+
+
+.border{
+	
+	margin-top: 35px;
+	margin-left: 155px;
+}
+
+div .border p{
+  margin-top:-3px;
+  margin-left: 120px;
+}
+
+
+.border h1{
+	margin-top: 5px;
+
+	font-size: 35px;
+	font-weight: bold;
+	font-family: helvetica;
+
+}
+
+
+
+
+
+ @font-face {
+    font-family: gilroyextrabold; /* Имя шрифта */
+    font-color: #ffe7d7;
+    src: url('10871-webfont.woff2');
+
+}
+
+
+div.naz{
+	margin-top: 10px;
+}
+
+
+div .joy p{
+	transform: rotate(270deg);
+	float: left;
+	margin-top: 133px;
+ 	margin-left: 10px;
+	font-size: 20px;
+	border-bottom: 4px solid ;
+
+	font-family: helvetica;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+div .dude{
+  font-size: 20px;
+  font-family: 'helvetica';
+  font-color: #ffe7d7;
+  font-weight: bold;
+}
+
+div .work p{
+  margin-top: 25px;
+  margin-left: 350px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+div .final p{
+ font-size: 27px;
+  font-weight: bold;
+ margin-left: 349px;
+ 
+}
+
+div .zag{
+		text-decoration: none;
+
+
+}
+div .rack{
+		opacity: 0.5;
+	}
